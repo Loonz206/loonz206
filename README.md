@@ -1,4 +1,4 @@
-<a href="https://lennypeters.com"><img width="50%" align="left" alt="Cyberpunk landscape" src="https://github.com/Loonz206/hello-next/blob/main/public/images/720_image.jpg?raw=true"></a>
+<a href="https://lennypeters.com"><img width="50%" align="left" alt="Cyberpunk landscape" src="https://github.com/Loonz206/hello-next/blob/main/public/images/720_image.png?raw=true"></a>
 
 ### Every person is a contributor to your journey, open minds and be kind 👋 🏔 🌊 🌲 
 
